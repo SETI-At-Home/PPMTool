@@ -9,6 +9,7 @@
 .settings
 .springBeans
 .sts4-cache
+workspace.xml
 
 ### IntelliJ IDEA ###
 .idea
