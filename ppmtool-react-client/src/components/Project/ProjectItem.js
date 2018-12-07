@@ -12,8 +12,8 @@ class ProjectItem extends Component {
 							<span className="mx-auto">{project.projectName}</span>
 						</div>
 						<div className="col-lg-6 col-md-4 col-8">
-							<h3>Spring / React Project</h3>
-							<p>Test Spring / React project</p>
+							<h3>{project.projectName}</h3>
+							<p>{project.projectIdentifier}</p>
 						</div>
 						<div className="col-md-4 d-none d-lg-block">
 							<ul className="list-group">

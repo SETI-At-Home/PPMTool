@@ -3,13 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="37957ea8-44cb-44c8-8597-98f9df1a9c64" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ppmtool-react-client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ppmtool-react-client/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ppmtool-react-client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ppmtool-react-client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ppmtool-react-client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/ppmtool-react-client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ppmtool-react-client/src/components/Layout/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/ppmtool-react-client/src/components/Layout/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ppmtool-react-client/src/components/Project/ProjectItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/ppmtool-react-client/src/components/Project/ProjectItem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ppmtool-react-client/src/components/dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/ppmtool-react-client/src/components/dashboard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ppmtool/src/main/java/com/bozhinovski/ppmtool/web/ProjectController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ppmtool/src/main/java/com/bozhinovski/ppmtool/web/ProjectController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppmtool-react-client/src/actions/projectActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/ppmtool-react-client/src/actions/projectActions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppmtool-react-client/src/actions/types.js" beforeDir="false" afterPath="$PROJECT_DIR$/ppmtool-react-client/src/actions/types.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppmtool-react-client/src/reducers/projectReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/ppmtool-react-client/src/reducers/projectReducer.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/ppmtool/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ppmtool/src/main/java/com/bozhinovski/ppmtool/domain/Project.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="836">
-              <caret line="51" selection-start-line="51" selection-end-line="51" />
+            <state relative-caret-position="146">
+              <caret line="62" column="5" lean-forward="true" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -44,11 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ppmtool/src/main/java/com/bozhinovski/ppmtool/web/ProjectController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="38" column="62" selection-start-line="38" selection-start-column="62" selection-end-line="38" selection-end-column="62" />
+            <state relative-caret-position="345">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -133,11 +129,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1913" />
+    <option name="width" value="1474" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -267,18 +262,18 @@
       <updated>1543824699823</updated>
       <workItem from="1543824711255" duration="1543000" />
       <workItem from="1544085243701" duration="101000" />
-      <workItem from="1544085466245" duration="3284000" />
+      <workItem from="1544085466245" duration="4912000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44586000" />
+    <option name="totallyTimeSpent" value="46214000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="1913" y="0" width="1474" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24362417" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25671852" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -289,13 +284,13 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49929178" visible="true" weight="0.2917847" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49929178" weight="0.4864572" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.31527627" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49929178" weight="0.42634562" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49929178" visible="true" weight="0.42997813" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007082" side_tool="true" weight="0.32932165" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
@@ -505,16 +500,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ppmtool/src/main/java/com/bozhinovski/ppmtool/domain/Project.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ppmtool/src/main/java/com/bozhinovski/ppmtool/exceptions/CustomResponseEntityExceptionHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -571,8 +556,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ppmtool/src/main/java/com/bozhinovski/ppmtool/web/ProjectController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="38" column="62" selection-start-line="38" selection-start-column="62" selection-end-line="38" selection-end-column="62" />
+        <state relative-caret-position="345">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ppmtool/src/main/java/com/bozhinovski/ppmtool/domain/Project.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="62" column="5" lean-forward="true" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
